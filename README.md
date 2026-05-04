@@ -25,10 +25,10 @@ A Node.js WhatsApp bot built using Baileys to automate SMM panel operations like
 ## ⚙️ Setup
 
 ```bash
-git clone https://madhav-ahuja12/whatsapp-chatbot.01
-cd whatsapp-smm-bot
+git clone https://github.com/madhav-ahuja12/whatsapp-chatbot.01.git
+cd whatsapp-chatbot.01
 npm install
-node index.js
+node bot.js
 ```
 
 Update API config in code:
